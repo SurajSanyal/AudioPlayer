@@ -1,5 +1,5 @@
 # AudioPlayer
- An GUI in MATLAB allowing the user to read/manipulate playback of mp3 files.
+ A GUI in MATLAB allowing the user to read/manipulate playback of mp3 files.
  
  ![AudioPlayer Preview](https://user-images.githubusercontent.com/55250165/90667919-3d624200-e21d-11ea-8e0d-338fe2b3dbc0.png)
  
